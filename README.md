@@ -1,4 +1,4 @@
-[![MasterHead](https://https://bereamail.co.za/education-tomorrow-2020/)](https://umehabiba.io)
+<!--  [![MasterHead](https://https://bereamail.co.za/education-tomorrow-2020/)](https://umehabiba.io)  -->
 
 <h1 align="center">Hey Everyone, I'm Ume Habiba! 👋</h1>
 <h3 align="center">I'm a student of Software Engineering</h3>
