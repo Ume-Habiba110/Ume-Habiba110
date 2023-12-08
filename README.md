@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="367" height="230" />
 
 <h3> 👩‍💻 About Me </h3>
-- 🔭 I’m currently in my 2nd semester
+- 🔭 I’m currently in my 5th semester
 
 - 🌱 I’m currently learning about **different technologies**
 
