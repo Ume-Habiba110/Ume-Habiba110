@@ -10,8 +10,9 @@
 
 
 ### :woman_technologist: About Me :
-
-- 🌱 I’m currently learning about **different technologies**
+- :telescope: Currently I am in the 6th semester
+  
+- 🌱 I’m laerning about **different technologies**
 
 - 💬 Share your ideas **with me**
 
