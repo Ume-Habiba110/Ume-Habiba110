@@ -22,7 +22,7 @@
 <h3 align="left"> :inbox_tray: Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ume-habiba10/" target="blank"><img align="center" src="https://img.shields.io/badge/-Habiba-blue?style=flat&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/ume-habiba10/" height="20" width="60" /></a>
+<a href="https://www.linkedin.com/in/ume-habiba10/" target="blank"><img align="center" src="https://img.shields.io/badge/-Habiba-blue?style=flat&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/ume-habiba10/" height="20" width="60" /></a>
 </p>
 
 ---
