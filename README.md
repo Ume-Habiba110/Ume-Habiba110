@@ -10,7 +10,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: Currently I am in the 6th semester
+- :telescope: Currently, I am in the 8th semester
   
 - 🌱 I’m learning about **different technologies**
 
