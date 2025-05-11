@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone, I'm Ume Habiba! 👋</h1>
-<h3 align="center">I'm a student of Software Engineering</h3>
+<h3 align="center">I'm a curious student of Software Engineering</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700"> -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="367" height="230" />
 <!-- <img align="right" alt="GIF" src="https://i.gifer.com/JXA0.gif" width="367" height="230" /> -->
@@ -10,13 +10,10 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: Currently, I am in the 8th semester
-  
-- 🌱 I’m learning about **different technologies**
-
-- 💬 Share your ideas **with me**
-
-- 📫 How to reach me **padhrar840@gmail.com**
+- :telescope: Currently, I am in my final year and working on an AI-powered Intelligent Agriculture System focused on crop health and classification
+- 🌱 I'm actively learning and exploring various technologies to grow as a software engineer.
+- 💬 Let’s connect and exchange ideas, find me on **[LinkedIn](https://www.linkedin.com/in/ume-habiba10/)**
+- 📫 Feel free to reach out at **padhrar840@gmail.com**
 
 
 <h3 align="left"> :inbox_tray: Connect with me:</h3>
@@ -46,12 +43,19 @@
 
 ---
 
-### :fire: My Stats :
+### ⚡️ My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ume-Habiba110&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ume-Habiba110&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=umehabiba&theme=dark" width="47%" alt="umehabiba" /> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=umehabiba&show_icons=true&locale=en&theme=dark" width="47%" alt="umehabiba" />
+<!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=umehabiba&theme=dark" width="47%" alt="umehabiba" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=umehabiba&show_icons=true&locale=en&theme=dark" width="47%" alt="umehabiba" /> -->
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ume-Habiba110&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ume-Habiba110's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ume-Habiba110&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ume-Habiba110's" />
+  
+<!--   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ume-Habiba110&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ume-Habiba110's Most Used Languages" /> -->
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ume-Habiba110&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
