@@ -13,7 +13,7 @@
 - :telescope: Currently, I am in my final year and working on an AI-powered Intelligent Agriculture System focused on crop health and classification
 - 🌱 I'm actively learning and exploring various technologies to grow as a software engineer.
 - 💬 Let’s connect and exchange ideas, find me on **[LinkedIn](https://www.linkedin.com/in/ume-habiba10/)**
-- 📫 Feel free to reach out at **umehabiba.codes@gmail.com**
+- 📫 Feel free to reach out at [umehabiba.codes@gmail.com](mailto:umehabiba.codes@gmail.com)
 
 
 <h3 align="left"> :inbox_tray: Connect with me:</h3>
